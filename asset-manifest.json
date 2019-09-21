@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ReactArgonTheme/static/css/main.9ae25b78.chunk.css",
+    "main.js": "/ReactArgonTheme/static/js/main.b4fc0f8e.chunk.js",
+    "main.js.map": "/ReactArgonTheme/static/js/main.b4fc0f8e.chunk.js.map",
+    "runtime~main.js": "/ReactArgonTheme/static/js/runtime~main.a528147a.js",
+    "runtime~main.js.map": "/ReactArgonTheme/static/js/runtime~main.a528147a.js.map",
+    "static/js/2.13ee78f6.chunk.js": "/ReactArgonTheme/static/js/2.13ee78f6.chunk.js",
+    "static/js/2.13ee78f6.chunk.js.map": "/ReactArgonTheme/static/js/2.13ee78f6.chunk.js.map",
+    "index.html": "/ReactArgonTheme/index.html",
+    "precache-manifest.ea03c0eae3e376486eac26b50546daeb.js": "/ReactArgonTheme/precache-manifest.ea03c0eae3e376486eac26b50546daeb.js",
+    "service-worker.js": "/ReactArgonTheme/service-worker.js",
+    "static/css/main.9ae25b78.chunk.css.map": "/ReactArgonTheme/static/css/main.9ae25b78.chunk.css.map",
+    "static/media/argon-react-white.png": "/ReactArgonTheme/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/ReactArgonTheme/static/media/argon-react.f38ddea9.png",
+    "static/media/creativetim-white-slim.png": "/ReactArgonTheme/static/media/creativetim-white-slim.f7cb2d39.png",
+    "static/media/font-awesome.min.css": "/ReactArgonTheme/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/ReactArgonTheme/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/ReactArgonTheme/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/ReactArgonTheme/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/ReactArgonTheme/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/ReactArgonTheme/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/ReactArgonTheme/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/ReactArgonTheme/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/ReactArgonTheme/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/ReactArgonTheme/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/ReactArgonTheme/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/ReactArgonTheme/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/ReactArgonTheme/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/ReactArgonTheme/static/media/team-4-800x800.23007132.jpg"
+  }
+}
